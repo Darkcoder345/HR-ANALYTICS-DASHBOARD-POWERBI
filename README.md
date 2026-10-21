@@ -1,8 +1,8 @@
 # HR-ANALYTICS-DASHBOARD-POWERBI
 ## Project Overview
 
--Tool: Power BI 
--Objective: Analyze employee attrition and identify workforce retention patterns.
+Tool: Power BI   
+Objective: Analyze employee attrition and identify workforce retention patterns  
 
 ## Key Performance Indicators (KPIs)
 -Total Employees: 1,470.
