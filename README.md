@@ -1,4 +1,7 @@
 # HR-ANALYTICS-DASHBOARD-POWERBI
+
+<img width="1371" height="766" alt="img" src="https://github.com/user-attachments/assets/d7da1a8f-c582-417a-82ad-3231b4fe92a3" />
+
 ## Project Overview
 
 Tool: Power BI   
